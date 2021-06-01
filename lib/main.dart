@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:notification_badge/screens/initial_page.dart';
+import 'package:notification_badge/screens/flutter_notification_badge.dart';
 
 void main() {
   runApp(MyApp());
